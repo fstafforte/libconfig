@@ -1,1 +1,1 @@
-# libxmlconfig
+# libconfig
